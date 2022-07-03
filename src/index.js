@@ -9,7 +9,7 @@ module.exports = function toReadable (number) {
     ['five', 'fifteen', 'fifty'],
     ['six', 'sixty', 'sixteen'],
     ['seven', 'seventeen', 'seventy'],
-    ['eight', 'eighty', 'eighteen'],
+    ['eight', 'eighteen', 'eighty'],
     ['nine', 'nineteen', 'ninety']
   ];
   const numStr = number.toString();
