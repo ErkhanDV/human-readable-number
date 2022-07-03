@@ -7,7 +7,7 @@ module.exports = function toReadable (number) {
     ['three', 'thirteen', 'thirty'],
     ['four', 'fourteen', 'forty'],
     ['five', 'fifteen', 'fifty'],
-    ['six', 'sixty', 'sixteen'],
+    ['six',, 'sixteen', 'sixty'],
     ['seven', 'seventeen', 'seventy'],
     ['eight', 'eighteen', 'eighty'],
     ['nine', 'nineteen', 'ninety']
